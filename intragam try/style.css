@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #FAFAFA;
+
+}
+div .pic{
+   height: 580px;
+   margin-top: 20px;
+   float: left;
+   margin-left: 180px;
+
+}
+
+.left-form{
+    float: right;
+    width: 350px;
+    border: 1px solid #ddd;
+    margin-top: 50px;
+    margin-right: 15%;
+    background: white;
+    border-radius: 4px;
+    box-shadow: 0.5px 0.5px 0.5px 0.5px #d1d1d1;
+   
+
+
+}
+
+.left-form h1{
+    font-family: 'Grand Hotel', cursive;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background: white;
+   }
+
+.left-form input{
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 35px;
+    margin-left:20%;
+    margin-top: 12px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    
+
+
+}
+.log-button{
+
+    color:white;
+    background-color: #0195F7;
+    margin-top: 12px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   padding-left: 89px;
+   padding-right: 89px;
+   margin-left:20%;
+   border-radius: 2px;
+    border: none;
+
+}
+
+.log2{
+    color: #385195;
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+.log2 a{
+    text-decoration: none;
+    color:#385195 ;
+   
+}
+
+.log2 a:hover{
+     
+    color:red;
+
+}
+
+.last-div{
+    float: right;
+    width: 350px;
+    border: 1px solid #ddd;
+    margin-right: 15%;
+   
+    background: white;
+    border-radius: 4px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+    text-align: center;
+    margin-top: 40px;
+    box-shadow: 0.5px 0.5px 0.5px 0.5px #d1d1d1;
+   
+
+}
+
+.last-div a{
+    text-decoration: none;
+    color:#385195 
+
+}
+
+.last-div a:hover{
+
+    color:red;
+
+}
